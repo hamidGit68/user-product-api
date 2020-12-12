@@ -32,6 +32,6 @@ ID of product, product name, product company, product price and product color. a
   * finding the users that has bought the product.
   * finding the total number of all orders that are received for this product from any user. 
 * Rules:
-each product has a Unique **ID**. also the **color** data is optional(might be omitted for some products).
+each product has a Unique **ID**. also the **color** data is optional (might be omitted for some products).
 
 
